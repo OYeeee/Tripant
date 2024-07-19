@@ -133,7 +133,8 @@ KH 정보 교육원 자바공공데이터 융합과정 FINAL_PROJECT
 </details>
 <details>
   <summary><h3>오예인</h3></summary>
-   ### 1. 주요 기능 및 시현
+  
+  ### 1. 주요 기능 및 시현
   
   ### 2. ERD
 
